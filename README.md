@@ -9,6 +9,6 @@ For the extraction of data using *yfinance.Ticker().history(period=)*, when tryi
 
 This happened for every stock. In order to retrieve any data and be able to progress forwards, I had to change the period to preiod="10y".
 
-After doing a bit of research, I have discovered that there it seems to be an error in the base code of the yfinance package for when the period is set to "max". But I didn't want to get into trying to fix the base code.
+After doing a bit of research, I have discovered that there it seems to be an error, for a couple of versions already, in the base code of the yfinance package for when the period is set to "max". But I didn't want to get into trying to fix the base code.
 
 Also important to notice that I have made this project in a local jupyter notebook.
