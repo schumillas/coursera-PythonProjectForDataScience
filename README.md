@@ -11,4 +11,6 @@ This happened for every stock. In order to retrieve any data and be able to prog
 
 After doing a bit of research, I have discovered that there it seems to be an error, for a couple of versions already, in the base code of the yfinance package for when the period is set to "max". But I didn't want to get into trying to fix the base code.
 
-Also important to notice that I have made this project in a local jupyter notebook.
+Important to notice that I have made this project in a local jupyter notebook.
+
+In addition, github does not show the graphs plotted, but I have uploaded them to the submission.
